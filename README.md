@@ -12,6 +12,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1ksF1Y0xKoqSMAj8MuTcb0kfPf2zN8LpZ?usp=sharing">
+    <strong>Project Resources (Google Drive)</strong>
+  </a>
+</p>
+
+---
+
 <h2 id="problem-statement">Problem Statement</h2>
 
 <p>
