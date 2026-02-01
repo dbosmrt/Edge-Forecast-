@@ -451,6 +451,56 @@ Response:
 
 ---
 
+<h2 id="references">Key Research References</h2>
+
+<ul>
+  <li>
+    Jain, S., et al. (2018).
+    <em>Forest fire risk assessment in India using remote sensing and GIS.</em>
+    Current Science.<br>
+    <a href="https://www.currentscience.ac.in/Volumes/114/03/0581.pdf" target="_blank">
+      https://www.currentscience.ac.in/Volumes/114/03/0581.pdf
+    </a>
+  </li>
+
+  <li>
+    Chuvieco, E., et al. (2010).
+    <em>Integration of ecological and meteorological information for fire risk mapping.</em>
+    Remote Sensing of Environment.<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0034425710000905" target="_blank">
+      https://www.sciencedirect.com/science/article/pii/S0034425710000905
+    </a>
+  </li>
+
+  <li>
+    Abatzoglou, J. T., and Williams, A. P. (2016).
+    <em>Impact of anthropogenic climate change on wildfire across western US forests.</em>
+    Proceedings of the National Academy of Sciences (PNAS).<br>
+    <a href="https://www.pnas.org/doi/10.1073/pnas.1607171113" target="_blank">
+      https://www.pnas.org/doi/10.1073/pnas.1607171113
+    </a>
+  </li>
+
+  <li>
+    Jain, P., et al. (2020).
+    <em>Machine learning applications in wildfire science.</em>
+    Remote Sensing.<br>
+    <a href="https://www.mdpi.com/2072-4292/12/17/2820" target="_blank">
+      https://www.mdpi.com/2072-4292/12/17/2820
+    </a>
+  </li>
+
+  <li>
+    ISPRS Archives (2023).
+    <em>Forest fire risk mapping in Uttarakhand using Google Earth Engine.</em><br>
+    <a href="https://isprs-archives.copernicus.org/articles/XLVIII-M-3-2023/27/2023/" target="_blank">
+      https://isprs-archives.copernicus.org/articles/XLVIII-M-3-2023/27/2023/
+    </a>
+  </li>
+</ul>
+
+---
+
 <h2 id="license">License</h2>
 
 <p>This project is developed for research and educational purposes.</p>

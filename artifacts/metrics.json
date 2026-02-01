@@ -1,0 +1,8 @@
+{
+  "roc_auc": 0.9850595924644368,
+  "pr_auc": 0.6785899224683274,
+  "train_samples": 23297,
+  "test_samples": 5825,
+  "resampled_train_samples": 46230,
+  "n_features": 27
+}

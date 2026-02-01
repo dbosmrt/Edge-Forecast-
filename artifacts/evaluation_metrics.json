@@ -1,0 +1,14 @@
+{
+  "roc_auc": 0.9850595924644368,
+  "pr_auc": 0.6785899224683274,
+  "precision_fire": 0.4268292682926829,
+  "recall_fire": 0.7777777777777778,
+  "f1_fire": 0.5511811023622046,
+  "true_negatives": 5733,
+  "false_positives": 47,
+  "false_negatives": 10,
+  "true_positives": 35,
+  "total_test_samples": 5825,
+  "actual_fires": 45,
+  "predicted_fires": 82
+}
