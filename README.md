@@ -276,13 +276,6 @@ python api.py
 npm run dev
 </code></pre>
 
-<h3>7. Access the Application</h3>
-
-<ul>
-  <li>Frontend: <a href="http://localhost:5173">http://localhost:5173</a></li>
-  <li>API Docs: <a href="http://localhost:8000/docs">http://localhost:8000/docs</a></li>
-</ul>
-
 ---
 
 <h2 id="tech-stack">Technology Stack</h2>
